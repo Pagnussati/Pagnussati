@@ -15,7 +15,7 @@
 ##
   
 ![Juaum GitHub stats](https://github-readme-stats.vercel.app/api?username=Pagnussati&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pagnussati&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pagnussati&hide_progress=true)](https://github.com/Pagnussati/github-readme-stats)
   
 ##
   
