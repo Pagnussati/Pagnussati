@@ -1,7 +1,7 @@
 ### Salve!
 
 - 🔭 Estou cursando o terceiro ano do ensino médio
-- 🌱 Estou atualmente aprendendo Java
+- 🌱 Sempre aprimorando conhecimentos
 - 📫 Email: joaogpagnussati@gmail.com / Instagram: @joaopagnussati
 
 ##
