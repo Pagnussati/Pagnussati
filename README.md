@@ -12,12 +12,8 @@
   <a href="https://www.linkedin.com/in/joão-gabriel-pagnussati-063161278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-##
-  
 ![Juaum GitHub stats](https://github-readme-stats.vercel.app/api?username=Pagnussati&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pagnussati&hide_progress=true)](https://github.com/Pagnussati/github-readme-stats)
-  
-##
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
