@@ -11,6 +11,8 @@
   <img align="center" alt="Joao-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Joao-JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
+
+###
   
 ![Juaum GitHub stats](https://github-readme-stats.vercel.app/api?username=Pagnussati&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pagnussati&hide_progress=true)](https://github.com/Pagnussati/github-readme-stats)
