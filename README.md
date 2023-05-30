@@ -9,6 +9,7 @@
 <div style="display: inline_block" align ="center"><br>
   <img align="center" alt="Joao-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40px">
   <img align="center" alt="Joao-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40px">
+  <img align="center" alt="Joao-JAVA" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40px">
 </div>
 
 <hr>
