@@ -1,7 +1,7 @@
 <h1>Salve! 🤷‍♂️</h1>
 
-- 🔭 Estou cursando o terceiro ano do ensino médio
-- 🌱 Aprendendo Javascript
+- 🔭 Cursando o terceiro ano do ensino médio
+- 🌱 Estudando Javascript
 - 📫 Email: joaogpagnussati@gmail.com / Instagram: @joaopagnussati
 
 <hr>
