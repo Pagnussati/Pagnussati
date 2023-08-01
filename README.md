@@ -1,4 +1,4 @@
-<h1>Salve! 🤷‍♂️</h1>
+<h1>Salve! 👍</h1>
 
 - 🔭 Cursando o terceiro ano do ensino médio
 - 🌱 Estudando Javascript
