@@ -1,7 +1,7 @@
 <h1>Salve! 👍</h1>
 
 - 🔭 Cursando o terceiro ano do ensino médio
-- 🌱 Estudando Javascript
+- 🌱 Estudando React
 - 📫 Email: joaogpagnussati@gmail.com / Instagram: @joaopagnussati
 
 <hr>
