@@ -1,6 +1,6 @@
 <h1>Salve! 👍</h1>
 
-- 🔭 Cursando o terceiro ano do ensino médio
+- 🔭 Cursando Ciência da Computação na Unesc
 - 🌱 Estudando React
 - 📫 Email: joaogpagnussati@gmail.com / Instagram: @joaopagnussati
 
