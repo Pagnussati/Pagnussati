@@ -12,7 +12,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,mysql,mongodb,git)
 
-## My Stats
+## Estatísticas
 
 <div display="flex" >
   <img width=45% src="https://github-readme-stats.vercel.app/api?username=Pagnussati&theme=dracula&show_icons=true&icon_color=6fc4e2"/>
