@@ -10,7 +10,7 @@
 
 ## Tecnologias
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,mysql,mongodb,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,react,mysql,mongodb,git)
 
 ## Estatísticas
 
