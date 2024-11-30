@@ -2,6 +2,7 @@
 
 - 👨‍🎓 Cursando Ciência da Computação
 - 📚 Buscando experiência e aprendizado todo dia
+- 👨‍💻 Atualmente estudando Laravel
 
 ## Entre em contato 📞
 
@@ -10,7 +11,7 @@
 
 ## Tecnologias
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,react,mysql,mongodb,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,laravel,nodejs,react,mysql,git)
 
 ## Estatísticas
 
