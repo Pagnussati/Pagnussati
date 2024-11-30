@@ -11,7 +11,7 @@
 
 ## Tecnologias
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,laravel,nodejs,react,mysql,git)
+![My Skills](https://skillicons.dev/icons?i=js,jquery,php,laravel,nodejs,react,mysql,git)
 
 ## Estatísticas
 
