@@ -4,14 +4,14 @@
 - 📚 Buscando experiência e aprendizado todo dia
 - 👨‍💻 Atualmente estudando Laravel
 
+## Tecnologias
+
+![My Skills](https://skillicons.dev/icons?i=js,jquery,nodejs,react,php,laravel,mysql,git)
+
 ## Entre em contato 📞
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-gabriel-p)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([joaogpagnussati@gmail.com](https://mail.google.com/mail/u/0/#sent?compose=DmwnWrRvwLqFkZQTfdnXDlcnXpbPpzSwxgKWfvQCkJKpRLgGZTfXxgbRzHXVMTKqLGzHDgJmwtjQ))
-
-## Tecnologias
-
-![My Skills](https://skillicons.dev/icons?i=js,jquery,nodejs,react,php,laravel,mysql,git)
 
 ## Estatísticas
 
