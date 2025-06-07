@@ -2,7 +2,6 @@
 
 - 👨‍🎓 Cursando Ciência da Computação
 - 📚 Buscando experiência e aprendizado todo dia
-- 👨‍💻 Atualmente estudando Laravel
 
 ## Tecnologias
 
